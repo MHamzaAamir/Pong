@@ -1,5 +1,5 @@
 # Pong
-Pong game made using Irvine32 Library in MASM
+Pong game made using Irvine32 Library
 
 End Semester project made for Computer Organisation and Assmebly Language course
 
